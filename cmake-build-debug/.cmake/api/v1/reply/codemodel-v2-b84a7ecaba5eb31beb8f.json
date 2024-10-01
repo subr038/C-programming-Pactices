@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_programming_Pactices",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C_programming_Pactices::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C_programming_Pactices-Debug-7948e5792bab8f3d9365.json",
+					"name" : "C_programming_Pactices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Operators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Operators-Debug-e4e66f09c41a2bdaeb43.json",
+					"name" : "Operators",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pactices::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pactices-Debug-798f823e48d4d81f7a20.json",
+					"name" : "Pactices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pactices2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pactices2-Debug-c30b3ba070c176054b73.json",
+					"name" : "pactices2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C programming Pactices/cmake-build-debug",
+		"source" : "D:/C programming Pactices"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

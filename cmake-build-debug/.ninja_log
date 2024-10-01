@@ -1,0 +1,20 @@
+# ninja log v6
+7	590	7495042075918111	build.ninja	9f5c6bc2cfd47a9b
+27	139	7494728776909549	CMakeFiles/C_programming_Pactices.dir/main.c.obj	a1baecc2167f4e5f
+140	282	7494728778039010	C_programming_Pactices.exe	8cc226c0284f087b
+30	141	7494766613714513	CMakeFiles/Operators.dir/Operators.c.obj	d3bc87189a1c367a
+142	283	7494766614828184	Operators.exe	33c2d362e5c0c13d
+32	138	7495018517767130	CMakeFiles/Pactices.dir/Pactices.c.obj	15295837719e68e
+139	285	7495018518835507	Pactices.exe	3d9cad714821a028
+14	278	7495044304112407	CMakeFiles/pactices2.dir/pactices2.c.obj	9ec2cb2de907c74e
+279	507	7495044306760940	pactices2.exe	a633694ddbbe39e5
+29	135	7495044951161598	CMakeFiles/pactices2.dir/pactices2.c.obj	9ec2cb2de907c74e
+135	277	7495044952223760	pactices2.exe	a633694ddbbe39e5
+28	162	7495046051152771	CMakeFiles/pactices2.dir/pactices2.c.obj	9ec2cb2de907c74e
+162	342	7495046052489293	pactices2.exe	a633694ddbbe39e5
+8	221	7495071072552081	CMakeFiles/pactices2.dir/pactices2.c.obj	9ec2cb2de907c74e
+222	446	7495071074688441	pactices2.exe	a633694ddbbe39e5
+26	154	7495071223462500	CMakeFiles/pactices2.dir/pactices2.c.obj	9ec2cb2de907c74e
+155	346	7495071224762565	pactices2.exe	a633694ddbbe39e5
+9	279	7495083382219597	CMakeFiles/pactices2.dir/pactices2.c.obj	9ec2cb2de907c74e
+279	507	7495083384931171	pactices2.exe	a633694ddbbe39e5

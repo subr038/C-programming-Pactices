@@ -1,0 +1,6 @@
+D:/C programming Pactices/cmake-build-debug/CMakeFiles/C_programming_Pactices.dir
+D:/C programming Pactices/cmake-build-debug/CMakeFiles/Operators.dir
+D:/C programming Pactices/cmake-build-debug/CMakeFiles/Pactices.dir
+D:/C programming Pactices/cmake-build-debug/CMakeFiles/pactices2.dir
+D:/C programming Pactices/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C programming Pactices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
